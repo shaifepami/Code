@@ -1,5 +1,5 @@
 
-![contract](Images/smart_contract.png)
+![contract](Images/Virgo.png)
 
 
 INTRODUCTION
