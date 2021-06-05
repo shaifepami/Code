@@ -1,5 +1,5 @@
 
-![contract](Images/Virgo.png)
+![contract](Images/Virgo.jpg)
 
 
 INTRODUCTION
