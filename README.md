@@ -87,8 +87,6 @@ The process flow involves the following steps highlighted below.
 
 </details>
 
-Describe each of the contract and include the program with a screenshot
-
 
 # Buy Token Contract
 
@@ -159,7 +157,8 @@ It achieves the following:
 
 </details>
 
-# Future Enhancements:
+# Future Enhancements
+<details><summary>  <b> Future Enhancements </b></summary>
 •	User Interface (UI)
 
 •	Crypto sales
@@ -177,7 +176,7 @@ It achieves the following:
 •	Option to transact in Fiat Currency
 
 •	Expand Crypto Range
-
+</details>
 
 # Resources ---link to video
 
