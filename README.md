@@ -9,7 +9,7 @@
 
 # Overview
 
-The aim of the project is to build an appliacation that will allow users to be able to use their token as collaterals for loans.
+The aim of the project is to build an application that will allow users to use their token as collaterals for loans.
 The program is built using SMART contract on Solidity.A users who can deposit Etherium into the contract can also initiate a process to book a loan against his/her deposit.
 i.e the user can borrow ETH against Crypto holdings by applying certain LTV (<60%) & term which determines rate.
 # Introduction
